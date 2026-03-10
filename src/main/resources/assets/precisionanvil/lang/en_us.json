@@ -1,0 +1,5 @@
+{
+  "precisionanvil.ui.levels_used": "XP cost: %s",
+  "precisionanvil.ui.level_required": "Required level: %s",
+  "precisionanvil.ui.costs_compact": "XP cost: %s | Required: %s"
+}
