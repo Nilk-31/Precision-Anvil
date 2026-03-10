@@ -16,4 +16,4 @@ All notable changes to this project are documented in this file.
 ### Notes
 - This is the current latest release baseline for the repository migration to GitHub.
 
-[v0.1.4]: https://github.com/Nilk-31/Precision-Anvil/releases/tag/v0.1.4
+[v0.1.4]: https://github.com/Nilk-31/Precision-Anvil/tree/v0.1.4
